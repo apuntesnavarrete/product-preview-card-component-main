@@ -115,3 +115,8 @@ body {
     border-radius: 10px 0px 0 10px;
   }
 }
+@media (max-width: 800px) and (orientation: landscape) {
+    body {
+      height: 200vh;
+    }
+  }
